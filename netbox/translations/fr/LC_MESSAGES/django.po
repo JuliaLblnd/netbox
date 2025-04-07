@@ -3362,7 +3362,7 @@ msgstr "Kilomètres"
 #: netbox/dcim/choices.py:1559 netbox/netbox/choices.py:176
 #: netbox/templates/dcim/cable_trace.html:65
 msgid "Meters"
-msgstr "Compteurs"
+msgstr "Mètres"
 
 #: netbox/dcim/choices.py:1560
 msgid "Centimeters"
